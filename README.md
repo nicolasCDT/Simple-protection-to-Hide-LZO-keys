@@ -4,9 +4,7 @@
 ## Authors
 
 * Takuma - [Metin2Work](https://github.com/devTakuma)
-
-## Website:
-You can find me on Discord: Takuma#0075
+* You can find me on Discord: Takuma#0075
 
 ## License
 
