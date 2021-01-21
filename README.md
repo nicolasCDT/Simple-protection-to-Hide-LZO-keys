@@ -3,7 +3,7 @@
  Juste for give you an example.
 ## Authors
 
-* Takuma - Discord: Takuma#0075
+* Takuma - [Email](mailto:work.takuma@gmail.com)
 * You can find me on Discord: Takuma#0075
 
 ## License
