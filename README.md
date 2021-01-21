@@ -3,7 +3,7 @@
  Juste for give you an example.
 ## Authors
 
-* Takuma - [Metin2Work](https://github.com/devTakuma)
+* Takuma - Discord: Takuma#0075
 * You can find me on Discord: Takuma#0075
 
 ## License
