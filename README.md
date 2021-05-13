@@ -4,7 +4,7 @@
 ## Authors
 
 * Takuma - [Email](mailto:work.takuma@gmail.com)
-* You can find me on Discord: Takuma#0075
+* You can find me on Discord: Takuma#2725
 
 ## License
 
